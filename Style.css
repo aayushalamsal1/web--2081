@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: blue;
+}
+
+/* .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
